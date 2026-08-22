@@ -2,8 +2,6 @@
 
 A powerful AI-powered desktop voice assistant built with Python that can perform voice-controlled tasks, automate desktop operations, search the web, interact with AI, control system functions, and provide an animated GUI.
 
----
-
 ## ✨ Features
 
 - 🎤 Wake Word Detection ("Hey Jarvis")
