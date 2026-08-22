@@ -29,8 +29,6 @@ A powerful AI-powered desktop voice assistant built with Python that can perform
 - ⚡ Animated GUI
 - 🔐 Shutdown & Restart Confirmation
 
----
-
 # 🛠️ Technologies Used
 
 - Python 3.x
