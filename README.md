@@ -43,31 +43,6 @@ A powerful AI-powered desktop voice assistant built with Python that can perform
 - RapidAPI
 - Threading
 
----
-
-# 📂 Project Structure
-
-```
-Jarvis/
-│
-├── frames2/
-├── jarvis/
-│   ├── Jarvis_main.py
-│   ├── ai_handler.py
-│   ├── SearchNow.py
-│   ├── NewsRead.py
-│   ├── Whatsapp.py
-│   ├── Calculatenumbers.py
-│   ├── keyboard.py
-│   ├── GreetMe.py
-│   ├── jarvis_gui.py
-│   └── ...
-│
-└── README.md
-```
-
----
-
 # 🚀 Installation
 
 ## Clone Repository
