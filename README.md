@@ -67,8 +67,6 @@ If you don't have a requirements.txt file, install manually:
 pip install speechrecognition pyttsx3 pyautogui pillow wikipedia requests pywhatkit pyaudio
 ```
 
----
-
 # ▶️ Run
 
 ```bash
