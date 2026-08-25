@@ -96,19 +96,6 @@ python Jarvis_main.py
 - Calculate 25 + 10
 - Send WhatsApp Message
 
-# 📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-```
-screenshots/
-    home.png
-    listening.png
-    gui.png
-```
-
 # 📌 Future Improvements
 
 - OpenAI Integration
@@ -122,33 +109,3 @@ screenshots/
 - Calendar Management
 - Multi-language Support
 
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push the branch
-5. Open a Pull Request
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Developer
-
-**Krunal Borad**
-
-GitHub:
-https://github.com/krunalborad
-
----
-
-⭐ If you like this project, don't forget to give it a Star!
