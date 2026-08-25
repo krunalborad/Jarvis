@@ -74,8 +74,6 @@ cd jarvis
 python Jarvis_main.py
 ```
 
----
-
 # 🎙️ Example Commands
 
 - Hey Jarvis
@@ -98,8 +96,6 @@ python Jarvis_main.py
 - Calculate 25 + 10
 - Send WhatsApp Message
 
----
-
 # 📸 Screenshots
 
 Add screenshots of your project here.
@@ -112,8 +108,6 @@ screenshots/
     listening.png
     gui.png
 ```
-
----
 
 # 📌 Future Improvements
 
